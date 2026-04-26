@@ -1,4 +1,4 @@
-// Описаний в документації
+console.log('jjj');
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
 
